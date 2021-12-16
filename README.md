@@ -116,21 +116,21 @@
    * [اپراتورهایی شامل LValues](https://github.com/solidity-docs/fa-persian/wiki/%D8%A7%D9%86%D9%88%D8%A7%D8%B9#%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7%DB%8C%DB%8C-%D8%B4%D8%A7%D9%85%D9%84--lvalues)
    * [تبدیل بین نوع‌های اصلی](https://github.com/solidity-docs/fa-persian/wiki/%D8%A7%D9%86%D9%88%D8%A7%D8%B9#%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D8%A8%DB%8C%D9%86-%D9%86%D9%88%D8%B9%D9%87%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%DB%8C)
    * [تبدیل بین لیترال‌ها و نوع‌های اصلی](https://github.com/solidity-docs/fa-persian/wiki/%D8%A7%D9%86%D9%88%D8%A7%D8%B9#%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D8%A8%DB%8C%D9%86-%D9%84%DB%8C%D8%AA%D8%B1%D8%A7%D9%84%D9%87%D8%A7-%D9%88-%D9%86%D9%88%D8%B9%D9%87%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%DB%8C)
-* Units and Globally Available Variables
-   * Ether Units
-   * Time Units
-   * Special Variables and Functions
-* Expressions and Control Structures
-   * Control Structures
-   * Function Calls
-   * Creating Contracts via new
-   * Order of Evaluation of Expressions
-   * Assignment
+* واحدها و متغیرهای در دسترس سراسری
+   * واحدهای اتر
+   * واحدهای زمان
+   * ‍متغیرها و توابع ویژه
+* عبارات و ساختارهای کنترل
+   * ساختارهای کنترلی
+   * فراخوانی تابع
+   * ایجاد قراردادها از طریق new
+   * ترتیب ارزیابی عبارات
+   * مقداردهی
    * Scoping and Declarations
-   * Checked or Unchecked Arithmetic
+   * محاسبات علامت زده یا بدون علامت
    * Error handling: Assert, Require, Revert and Exceptions
-* Contracts
-   * Creating Contracts
+* قراردادها
+   * ایجاد قراردادها
    * Visibility and Getters
    * Function Modifiers
    * Constant and Immutable State Variables
